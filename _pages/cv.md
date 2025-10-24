@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,18 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+You can find my CV also at this [link](https://github.com/icosac/cv/blob/a71f36390e245275168d5e2aaca7c546e361f529/out/enrico.pdf) in Europass format. 
+
+<!-- Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Information Engineering and Computer Science, University of Trento, 2022-(current)
+* M.S. in Computer Science, University of Trento, 2018-2022
+* B.S. in Computer Science, University of Trento, 2015-2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* March - October 2025: Research Intern
+  * Cognitive Robotics Department – DLR, Munich, Germany
+  * Duties includes: Research on task and motion planning with movement primitives for multiple robots. 
+  * Supervisor: João Silvério
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -61,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
