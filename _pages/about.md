@@ -19,7 +19,7 @@ Outside of research, rather than finding balance between robots and planning, I 
 
 📍 Usually in Trento, sometimes in Germany, always in front of a terminal. 
 
-📍 Currently at [DLR](https://www.dlr.de/) in Munich.
+Spent a research period (March 2025 - November 2025) at [DLR](https://www.dlr.de/) in Munich.
 
 **Post Scriptum**
 

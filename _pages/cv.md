@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV also at this [link](https://github.com/icosac/cv/blob/a71f36390e245275168d5e2aaca7c546e361f529/out/enrico.pdf) in Europass format. 
+You can find an always up-to-date CV at this [link](https://github.com/icosac/cv/blob/main/out/enrico.pdf) in Europass format. 
 
 <!-- Education
 ======
